@@ -9,3 +9,6 @@ alias .....="cd ../../../.."
 # Shortcuts
 alias desktop="cd ~/Desktop"
 alias sites="cd ~/Sites"
+
+# React Projects
+alias create-my-react-app="bash ~/bin/create-my-react-app.sh"
