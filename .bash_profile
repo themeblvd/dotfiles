@@ -20,7 +20,10 @@ elif [ -f /etc/bash_completion ]; then
 	source /etc/bash_completion;
 fi;
 
-# Add tab completion for Git commands.
+# Add tab completion for `git` commands.
 if [ -f ~/.git-completion.bash ]; then
   . ~/.git-completion.bash
 fi
+
+# Add tab completion for `wp` commands.
+complete -o nospace -F _wp_complete wp
