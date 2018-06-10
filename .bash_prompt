@@ -1,9 +1,11 @@
 # Terminal Styling
 
-# Any terminal styling type stuff will go this
-# file.
-
+##
+# Any terminal styling type stuff will go in
+# this file.
+#
 # I currently use the iTerm application mostly
 # for accessing the terminal. So I'm not sure
 # how much I want to do here since iTerm handles
 # most of my terminal styling needs.
+#
