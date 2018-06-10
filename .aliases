@@ -5,3 +5,7 @@ alias ..="cd .."
 alias ...="cd ../.."
 alias ....="cd ../../.."
 alias .....="cd ../../../.."
+
+# Shortcuts
+alias desktop="cd ~/Desktop"
+alias sites="cd ~/Sites"
