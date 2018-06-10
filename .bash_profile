@@ -9,3 +9,6 @@ for file in ~/.{bash_prompt,exports,aliases,functions,extra}; do
 	[ -r "$file" ] && [ -f "$file" ] && source "$file";
 done;
 unset file;
+
+# Node version manager (also see .exports).
+source ~/.nvm/nvm.sh
