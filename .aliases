@@ -10,5 +10,6 @@ alias .....="cd ../../../.."
 alias desktop="cd ~/Desktop"
 alias sites="cd ~/Sites"
 
-# React Projects
+# Project Starters
 alias create-my-react-app="bash ~/bin/create-my-react-app.sh"
+alias create-my-mern-app="bash ~/bin/create-my-mern-app.sh"
