@@ -13,3 +13,6 @@ alias sites="cd ~/Sites"
 # Project Starters
 alias create-my-react-app="bash ~/bin/create-my-react-app.sh"
 alias create-my-mern-app="bash ~/bin/create-my-mern-app.sh"
+
+# Docker
+alias dcwp='docker-compose exec --user www-data phpfpm wp'
